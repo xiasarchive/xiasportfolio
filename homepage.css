@@ -1,0 +1,21 @@
+html {
+    background-image: url(Assets/skyNight.gif);
+    background-size: 200vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#first {
+    position: relative;
+    top: 5vh;
+}

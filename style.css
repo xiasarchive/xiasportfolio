@@ -1,0 +1,36 @@
+html {
+    background-image: url(Assets/skyNight.gif);
+    background-size: 200vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.button {
+    height: 97vh;
+    width: 99vw;
+    position: fixed;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+.wordmark {
+    width: 50%;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -5px;
+}
+
+a {
+    
+    text-decoration: none !important;
+}
+
+ :hover {
+    color: red;
+}
