@@ -1,0 +1,229 @@
+html {
+    background-image: url(../Assets/skyNight.gif);
+    background-size: 200vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.untitled {
+    width: 450px;
+    height: 450px;
+    text-align: left;
+    left: 30vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+
+.untitledimg {
+    top: 5vh;
+    left: 30vw;
+    position: relative;
+    transform: rotate(2deg);
+}
+
+.lgts {
+    width: 450px;
+    height: 450px;
+    text-align: right;
+    left: 40vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+.lgtsvid {
+    top: 5vh;
+    left: 40vw;
+    position: relative;
+    transform: rotate(-2deg);
+}
+
+.robloxian {
+    width: 450px;
+    height: 450px;
+    text-align: left;
+    left: 30vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+
+.robloxianimg {
+    top: 5vh;
+    left: 30vw;
+    position: relative;
+    transform: rotate(2deg);
+}
+
+
+.crude {
+    width: 450px;
+    height: 450px;
+    text-align: right;
+    left: 40vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+.crudeimg {
+    top: 5vh;
+    left: 40vw;
+    position: relative;
+    transform: rotate(-2deg);
+}
+
+.rabbithole {
+    width: 450px;
+    height: 450px;
+    text-align: left;
+    left: 30vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+
+.rabbitholevid {
+    top: 5vh;
+    left: 30vw;
+    position: relative;
+    transform: rotate(2deg);
+}
+
+.gameover {
+    width: 450px;
+    height: 450px;
+    text-align: right;
+    left: 40vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+.gameoverimg {
+    top: 5vh;
+    left: 40vw;
+    position: relative;
+    transform: rotate(-2deg);
+}
+
+
+.diokophobia {
+    width: 450px;
+    height: 450px;
+    text-align: left;
+    left: 30vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+
+.diokophobiaimg {
+    top: 5vh;
+    left: 30vw;
+    position: relative;
+    transform: rotate(2deg);
+}
+
+
+.anomalocaris {
+    width: 450px;
+    height: 450px;
+    text-align: right;
+    left: 40vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+.anomalocarisimg {
+    top: 5vh;
+    left: 40vw;
+    position: relative;
+    transform: rotate(-2deg);
+}
+
+
+.forasmile {
+    width: 450px;
+    height: 450px;
+    text-align: left;
+    left: 30vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+
+.forasmileimg {
+    top: 5vh;
+    left: 30vw;
+    position: relative;
+    transform: rotate(2deg);
+}
+
+
+.lost {
+    width: 450px;
+    height: 450px;
+    text-align: right;
+    left: 40vw;
+    margin-bottom: 25px;
+    top: 5vh;
+    position: relative;
+    z-index: 10;
+    color: red;
+    font-size: 20px;
+}
+
+.lostimg {
+    top: 5vh;
+    left: 40vw;
+    position: relative;
+    transform: rotate(-2deg);
+}
+
+#back {
+    color: red;
+    margin-bottom: 10vh;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
